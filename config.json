@@ -19,9 +19,9 @@
 		"ignoreCommand": []
 	},
 	"adminBot": [
-		"100068909067279"
+		"61571860970796"
 	],
-	"owner": ["61569868084629"],
+	"owner": ["61584736601862"],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
@@ -44,7 +44,7 @@
 	"timeZone": "Asia/Ho_Chi_Minh",
 	"credentials": {
 		"gmailAccount": {
-			"email": "s.khasanmahamud324@gmail.com",
+			"email": "",
 			"clientId": "1038587958316-ugoqskt5s8itgca98ahjulp4691lhd9v.apps.googleusercontent.com",
 			"clientSecret": "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",
 			"refreshToken": "1//04ra2waD4ABt3CgYIARAAGAQSNgF-L9IrYkOHdKbzJwt5kMXGWgdKgc2aF3CxAdJ96G-113vAhZZR2L1fFuzCVslX_QvBGv2R0w",
